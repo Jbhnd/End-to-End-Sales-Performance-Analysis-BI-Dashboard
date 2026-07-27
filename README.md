@@ -30,6 +30,5 @@ The business experienced unpredicted fluctuations in monthly recurring revenue (
 ## Repository Structure & Project Flow
 1. **`/sql_queries`**: Contains the standalone SQL scripts used to handle data querying, and execute multi-level summaries before importing into the notebook.
 2. **`/notebooks`**: Holds the comprehensive Python Jupyter Notebook documenting the complete data analysis (Descriptive & EDA), trend identification, and anomalies.
-
-3. **Dashboard Link**: [LINK]
+3. **Dashboard**: PowerBI dashboard.
 
